@@ -2,11 +2,11 @@
 Veterinary Project RestApi Service
 
 ## Languages and Technologies Used in this Project
-:arrow_right Java
-:arrow_right REST API
-:arrow_right ElasticSearch
-:arrow_right Redis
-:arrow_right Swagger
+:arrow_right: Java </br>
+:arrow_right: REST API </br>
+:arrow_right: ElasticSearch </br>
+:arrow_right: Redis </br>
+:arrow_right: Swagger </br>
 
 ## Demo Account
 | :closed_lock_with_key: E-Mail | :old_key: Password |
