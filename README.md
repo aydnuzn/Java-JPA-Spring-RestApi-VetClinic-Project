@@ -49,3 +49,8 @@ This project has been designed in order to meet the necessity of clinic operatio
 <img src="https://github.com/aydnuzn/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screenshot/8.png" width="200" style="max-width:100%;"></a>
 
 </p>
+
+
+## 📜 License
+
+This software is licensed under the [MIT](https://github.com/aydnuzn/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/LICENSE)
