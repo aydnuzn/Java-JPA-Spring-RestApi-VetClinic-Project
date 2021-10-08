@@ -8,10 +8,17 @@ This project has been designed in order to meet the necessity of clinic operatio
 :arrow_right: Redis </br>
 :arrow_right: Swagger </br>
 
-## Demo Account
-| :closed_lock_with_key: E-Mail | :old_key: Password |
+## Available Demo Accounts
+| :closed_lock_with_key: Username | :old_key: Password |
 |----------|----------|
 | **``aydin@mail.com``**| **12345**|
+| **``demo@mail.com``**| **12345**|
+
+## Roles of Existing Available Demo Accounts
+| :lock_with_ink_pen: Username | ROLE_ADMIN | ROLE_DOCTOR | ROLE_SECRETARY | ROLE_BEGINNER
+|----------|----------|----------|----------|----------|
+| **``aydin@mail.com``**| X | X | X | X 
+| **``demo@mail.com``**|  |  |  | X 
 
 
 ## Application Images
