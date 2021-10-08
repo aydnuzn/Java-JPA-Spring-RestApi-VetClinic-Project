@@ -1,5 +1,5 @@
 # Java Spring RestApi Veterinary Clinic Project
-Veterinary Project RestApi Service
+This project has been designed in order to meet the necessity of clinic operation demands and carry out the procedures in a fast and practical way.
 
 ## Languages and Technologies Used in this Project
 :arrow_right: Java </br>
